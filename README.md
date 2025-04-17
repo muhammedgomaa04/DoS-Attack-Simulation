@@ -27,10 +27,10 @@ This project simulates a Denial of Service (DoS) attack on a server using Python
 ```plaintext
 /DoS_Simulation_Project
 │
-├── /assets            # Contains graphical assets
-├── /src               # Source code of the simulation
-│   ├── server.py      # Code to simulate server behavior / Main script to run the simulation
-│   ├── dos_attack.py  # Logic for simulating DoS attack
-│   └── client.py      # Simulating normal traffic and client requests
+├── /assets                   # Contains graphical assets
+├── /dos-attack-simulation    # Source code of the simulation
+│   ├── server.py             # Code to simulate server behavior / Main script to run the simulation
+│   ├── dos_attack.py         # Logic for simulating DoS attack
+│   └── client.py             # Simulating normal traffic and client requests
 │
-└── README.md          # Project overview and instructions
+└── README.md                 # Project overview and instructions
